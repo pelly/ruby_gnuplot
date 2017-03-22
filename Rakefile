@@ -1,4 +1,4 @@
-require 'jeweler2'
+require 'jeweler'
 Jeweler::Tasks.new do |s|
   s.name = 'gnuplot'
   s.description = s.summary = "Utility library to aid in interacting with gnuplot from ruby"
